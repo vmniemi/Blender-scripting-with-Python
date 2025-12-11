@@ -28,9 +28,7 @@ for i in range(5):
     
 
     sphere = bpy.context.active_object
-    # the sphere we just created (operators set the newly made object as active by default).
-    # Why assigned: storing a reference to the newly created object allows the script to
-    # modify its properties (like the name, transforms, materials) directly.
+    
 
     sphere.name = f"Sphere_{i}"
     # This renames the newly created object as determined by the for like such as "Sphere_0", "Sphere_1", etc.
