@@ -4,7 +4,8 @@ import bpy
 # It's required for any Blender Python script.
 
 
-
+# Please note that this following section deletes everything, it is only useful for always starting out on a clean slate
+# So it is not always necessary
 
 bpy.ops.object.select_all(action='SELECT')
 # This selects all objects in the scene Clear the scene (select everything and delete) ---
