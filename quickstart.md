@@ -2,7 +2,7 @@ Quick Start: Writing and Running Scripts & Adding to Blender with Add-ons
 
 This short guide distills the essentials from your tutorial into a fast, practical reference.
 
-1. Writing and Running Scripts (Quick Start)
+# 1. Writing and Running Scripts (Quick Start)
 
 Where to write scripts:
 
@@ -20,10 +20,12 @@ Press Run Script or Alt + P.
 
 Results appear instantly in the 3D Viewport.
 
+There is a example script called create5sphere.py that make 5 spheres in a line
 
 
 
-2. Adding to Blender with Add-ons 
+
+# 2. Adding to Blender with Add-ons 
 
 Why use add-ons?
 
@@ -31,7 +33,9 @@ Avoid switching to the Scripting tab repeatedly.
 
 Turn scripts into buttons that you can click anytime.
 
+There is also addonexample.py that makes the create5sphere.py into an add-on
 
+# Installing a local add-on
 
 How to install your add-on:
 
