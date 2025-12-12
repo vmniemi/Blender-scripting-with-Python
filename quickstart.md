@@ -20,7 +20,7 @@ Press Run Script or Alt + P.
 
 Results appear instantly in the 3D Viewport.
 
-There is a example script called create5sphere.py that make 5 spheres in a line
+There is an  example script in this repo called create5sphere.py that make 5 spheres in a line
 
 
 
@@ -33,7 +33,7 @@ Avoid switching to the Scripting tab repeatedly.
 
 Turn scripts into buttons that you can click anytime.
 
-There is also addonexample.py that makes the create5sphere.py into an add-on
+There is also addonexample.py in this repo that makes the create5sphere.py into an add-on
 
 # Installing a local add-on
 
