@@ -1,6 +1,4 @@
-Quick Start: Writing and Running Scripts & Adding to Blender with Add-ons
 
-This short guide distills the essentials from your tutorial into a fast, practical reference.
 
 # 1. Writing and Running Scripts (Quick Start)
 
